@@ -541,43 +541,38 @@
 - [ ] Principle of least privilege
 - [ ] Service authentication
 
-## 15. Security Testing
+### 👉 15. Security Testing
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Threat modeling
 - [ ] Dependency scanning
 - [ ] Penetration testing basics
 
----
 
-## 16. AI-Driven Chatbots
+### 👉 16. AI-Driven Chatbots
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Context windows
 - [ ] Vector search
 - [ ] RAG pipelines
 - [ ] Prompt injection attacks
 
----
 
-## 17. Web Scraping & Automation
+### 👉 17. Web Scraping & Automation
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Headless browsers
 - [ ] Anti-bot detection
 - [ ] Rate limiting avoidance
 - [ ] Browser fingerprinting
 
----
 
-# DevOps / Infrastructure Deep Dive
+## DevOps / Infrastructure Deep Dive
 
----
-
-## Docker
+### 👉 Docker
 
 - [ ] Multi-stage builds
 - [ ] Layer caching
@@ -585,9 +580,7 @@
 - [ ] Security hardening
 - [ ] Distroless images
 
----
-
-## Kubernetes
+### 👉 Kubernetes
 
 - [ ] Autoscaling
 - [ ] StatefulSets
@@ -595,98 +588,83 @@
 - [ ] Secrets management
 - [ ] Helm charts
 
----
-
-## CI/CD
+### 👉 CI/CD
 
 - [ ] Parallel pipelines
 - [ ] Artifact management
 - [ ] Rollback strategies
 - [ ] Deployment gates
 
----
 
-## Infrastructure as Code
+### 👉 Infrastructure as Code
 
 - [ ] Terraform state management
 - [ ] Drift detection
 - [ ] Immutable infrastructure
 
----
+### 👉 Blue-Green / Canary
 
-## Blue-Green / Canary
-
-### Deep Dive
+#### Deep Dive
 
 - [ ] Traffic shifting
 - [ ] Rollback automation
 - [ ] Feature flags
 
----
+### 👉 End-to-End Testing
 
-## End-to-End Testing
-
-### Deep Dive
+#### Deep Dive
 
 - [ ] Flaky test debugging
 - [ ] Network mocking
 - [ ] Visual regression testing
 
----
+### 👉 Performance Budgeting
 
-## Performance Budgeting
-
-### Deep Dive
+#### Deep Dive
 
 - [ ] JS budget
 - [ ] Image budget
 - [ ] CI performance enforcement
 
----
+### 👉 Jamstack
 
-## Jamstack
-
-### Deep Dive
+#### Deep Dive
 
 - [ ] ISR
 - [ ] Edge rendering
 - [ ] CDN invalidation
 
----
 
-## Headless CMS
+### 👉 Headless CMS
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Content modeling
 - [ ] GraphQL integration
 - [ ] Webhook pipelines
 
----
 
-## Event-Driven Architecture
+### 👉 Event-Driven Architecture
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Event sourcing
 - [ ] CQRS
 - [ ] Event consistency
 
----
 
-## Circuit Breakers
+### 👉 Circuit Breakers
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Retry storms
 - [ ] Bulkheads
 - [ ] Timeout strategies
 
----
 
-## Monitoring & Observability
+### 👉 Monitoring & Observability
 
-### Deep Dive
+#### Deep Dive
 
 - [ ] Distributed tracing
 - [ ] Structured logging
