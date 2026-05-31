@@ -1,6 +1,6 @@
 # Advance Engineering Foundation Guide
 
-> This repository is a comprehensive Web Engineering Checklist covering essential frontend, backend, full-stack, and DevOps topics for modern developers. It includes advanced concepts, best practices, security, performance, and real-world tools that are crucial for building scalable, secure, and high-performance web applications.
+> This repository is a comprehensive **Web Engineering** Checklist covering essential full-stack for modern developers. It includes advanced concepts, best practices, security, performance, and real-world tools that are crucial for building scalable, secure, and high-performance web applications.
 
 ## Frontend Deep Dive Topics
 
@@ -8,8 +8,8 @@
 
 #### Deep Dive
 
-- [ ] Cache First vs Network First
-- [ ] Stale While Revalidate
+- [x] Cache First vs Network First
+- [x] Stale While Revalidate
 - [ ] Background Sync
 - [ ] Offline-first architecture
 - [ ] Cache invalidation problems
