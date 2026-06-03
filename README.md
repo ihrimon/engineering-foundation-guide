@@ -46,7 +46,6 @@
 - [ ] Browser connection limits
 - [ ] Keep-alive tuning
 
-
 ### 👉 3. Content Security Policy (CSP)
 
 #### Deep Dive
@@ -64,7 +63,6 @@
 - [ ] Real-world CSP rollout strategy
 - [ ] CSP debugging in browsers
 
-
 ### 👉 4. Rate Limiting & Throttling
 
 #### Deep Dive
@@ -81,7 +79,6 @@
 - [ ] Difference between debounce vs throttle
 - [ ] API abuse protection
 - [ ] DDoS mitigation basics
-
 
 ### 👉 5. Code Splitting & Lazy Loading
 
@@ -116,7 +113,6 @@
 - [ ] Why tree shaking sometimes fails
 - [ ] Library design for tree shaking
 
-
 ### 👉 7. Core Web Vitals
 
 #### Deep Dive
@@ -133,7 +129,6 @@
 - [ ] Synthetic testing
 - [ ] Lighthouse limitations
 
-
 ### 👉8. Progressive Enhancement
 
 #### Deep Dive
@@ -147,7 +142,6 @@
 
 - [ ] Why over-JS apps fail
 - [ ] Accessibility benefits
-
 
 ### 👉 9. WebAssembly (WASM)
 
@@ -181,7 +175,6 @@
 - [ ] Why layouts break
 - [ ] Responsive system architecture
 
-
 ### 👉 11. CSS Houdini
 
 #### Deep Dive
@@ -195,7 +188,6 @@
 
 - [ ] Browser rendering extensibility
 - [ ] Custom rendering systems
-
 
 ### 👉 12. Closures & Currying
 
@@ -211,7 +203,6 @@
 - [ ] Closures in async systems
 - [ ] Real-world closure bugs
 
-
 ### 👉 13. Memoization & useMemo
 
 #### Deep Dive
@@ -225,7 +216,6 @@
 
 - [ ] When memoization hurts performance
 - [ ] useMemo misuse
-
 
 ### 👉 14. Generators & Async Iterators
 
@@ -254,7 +244,6 @@
 
 - [ ] Building your own reactive store
 
-
 ### 👉 16. WebRTC
 
 #### Deep Dive
@@ -270,7 +259,6 @@
 - [ ] Scaling WebRTC systems
 - [ ] Mesh vs SFU vs MCU
 
-
 ### 👉 17. Server-Sent Events (SSE)
 
 #### Deep Dive
@@ -284,12 +272,11 @@
 
 - [ ] ChatGPT-style streaming
 
-
 ### 👉 18. JavaScript Event Loop & Async
 
 #### Deep Dive
 
-- [ ] Microtasks vs macrotasks
+- [X] Microtasks vs macrotasks
 - [ ] Starvation problems
 - [ ] Rendering synchronization
 - [ ] Task scheduling
@@ -298,7 +285,6 @@
 
 - [ ] Predict async execution order
 - [ ] Browser vs Node.js event loop
-
 
 ### 👉 19. Frontend Security
 
@@ -315,7 +301,6 @@
 - [ ] Secure auth storage
 - [ ] SameSite cookies
 
-
 ### 👉 20. Performance Optimization
 
 #### Deep Dive
@@ -331,7 +316,6 @@
 - [ ] Chrome Performance tab
 - [ ] Flamegraphs
 
-
 ### 👉 21. Accessibility Auditing
 
 #### Deep Dive
@@ -344,7 +328,6 @@
 #### Real Engineering
 
 - [ ] Accessibility architecture
-
 
 ### 👉 22. SEO Technical Optimization
 
@@ -361,8 +344,7 @@
 - [ ] Indexing failures
 - [ ] SEO debugging
 
-
-### 👉  23. Internationalization (i18n)
+### 👉 23. Internationalization (i18n)
 
 #### Deep Dive
 
@@ -375,9 +357,7 @@
 
 - [ ] Multi-region architecture
 
-
 ## Backend Deep Dive Topics
-
 
 ### 👉 1. Microservices Architecture
 
@@ -436,7 +416,6 @@
 
 - [ ] Difference between AuthN vs AuthZ
 
-
 ### 👉 5. JWT Token Management
 
 #### Deep Dive
@@ -450,7 +429,6 @@
 
 - [ ] Stateless auth tradeoffs
 
-
 ### 👉 6. SQL Injection Prevention
 
 #### Deep Dive
@@ -463,7 +441,6 @@
 
 - [ ] Query validation
 
-
 ### 👉 7. CSRF Tokens
 
 #### Deep Dive
@@ -471,7 +448,6 @@
 - [ ] Double-submit cookies
 - [ ] SameSite strategies
 - [ ] CSRF in SPAs
-
 
 ### 👉 8. Scaling Systems
 
@@ -495,7 +471,6 @@
 - [ ] Health checks
 - [ ] Layer 4 vs Layer 7
 
-
 ### 👉 10. Database Sharding
 
 #### Deep Dive
@@ -513,7 +488,6 @@
 - [ ] Cache warming
 - [ ] Redis eviction policies
 - [ ] CDN edge caching
-
 
 ### 👉 12. Message Queues
 
@@ -549,7 +523,6 @@
 - [ ] Dependency scanning
 - [ ] Penetration testing basics
 
-
 ### 👉 16. AI-Driven Chatbots
 
 #### Deep Dive
@@ -559,7 +532,6 @@
 - [ ] RAG pipelines
 - [ ] Prompt injection attacks
 
-
 ### 👉 17. Web Scraping & Automation
 
 #### Deep Dive
@@ -568,7 +540,6 @@
 - [ ] Anti-bot detection
 - [ ] Rate limiting avoidance
 - [ ] Browser fingerprinting
-
 
 ## DevOps / Infrastructure Deep Dive
 
@@ -594,7 +565,6 @@
 - [ ] Artifact management
 - [ ] Rollback strategies
 - [ ] Deployment gates
-
 
 ### 👉 Infrastructure as Code
 
@@ -634,7 +604,6 @@
 - [ ] Edge rendering
 - [ ] CDN invalidation
 
-
 ### 👉 Headless CMS
 
 #### Deep Dive
@@ -642,7 +611,6 @@
 - [ ] Content modeling
 - [ ] GraphQL integration
 - [ ] Webhook pipelines
-
 
 ### 👉 Event-Driven Architecture
 
@@ -652,7 +620,6 @@
 - [ ] CQRS
 - [ ] Event consistency
 
-
 ### 👉 Circuit Breakers
 
 #### Deep Dive
@@ -660,7 +627,6 @@
 - [ ] Retry storms
 - [ ] Bulkheads
 - [ ] Timeout strategies
-
 
 ### 👉 Monitoring & Observability
 
