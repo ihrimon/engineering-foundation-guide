@@ -117,9 +117,9 @@
 
 #### Deep Dive
 
-- [ ] LCP optimization
-- [ ] CLS debugging
-- [ ] INP vs FID
+- [X] LCP optimization
+- [X] CLS debugging
+- [X] INP vs FID
 - [ ] Render-blocking resources
 - [ ] Critical rendering path
 
