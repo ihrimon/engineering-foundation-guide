@@ -30,14 +30,14 @@
 
 #### Deep Dive
 
-- [ ] Head-of-line blocking
-- [ ] Multiplexing
-- [ ] Binary framing
-- [ ] HPACK compression
-- [ ] QUIC protocol
-- [ ] TLS handshake optimization
-- [ ] Connection reuse
-- [ ] Streaming responses
+- [X] Head-of-line blocking
+- [X] Multiplexing
+- [X] Binary framing
+- [X] HPACK compression
+- [X] QUIC protocol
+- [X] XTLS handshake optimization
+- [X] Connection reuse
+- [X] Streaming responses
 
 #### Engineering Focus
 
