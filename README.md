@@ -69,8 +69,8 @@
 
 - [ ] Token bucket algorithm
 - [ ] Leaky bucket
-- [ ] Sliding window
-- [ ] Fixed window
+- [x] Sliding window
+- [] Fixed window
 - [ ] Distributed rate limiting
 - [ ] Redis-based rate limiting
 
